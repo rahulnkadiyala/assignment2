@@ -1,0 +1,27 @@
+/* External CSS */
+img{
+    height: 250px;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #c0392b;
+}
+
+h2{
+    color:#2980b9;
+    padding-bottom: 5px;
+    border-bottom: #2980b9;
+}
+
+
+
